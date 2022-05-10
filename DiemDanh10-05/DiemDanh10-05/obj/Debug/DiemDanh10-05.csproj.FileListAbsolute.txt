@@ -1,0 +1,7 @@
+D:\DiemDanh\C_sharp\DiemDanh10-05\DiemDanh10-05\obj\Debug\DiemDanh10-05.csprojAssemblyReference.cache
+D:\DiemDanh\C_sharp\DiemDanh10-05\DiemDanh10-05\obj\Debug\DiemDanh10-05.csproj.CoreCompileInputs.cache
+D:\DiemDanh\C_sharp\DiemDanh10-05\DiemDanh10-05\bin\Debug\DiemDanh10-05.exe.config
+D:\DiemDanh\C_sharp\DiemDanh10-05\DiemDanh10-05\bin\Debug\DiemDanh10-05.exe
+D:\DiemDanh\C_sharp\DiemDanh10-05\DiemDanh10-05\bin\Debug\DiemDanh10-05.pdb
+D:\DiemDanh\C_sharp\DiemDanh10-05\DiemDanh10-05\obj\Debug\DiemDanh10-05.exe
+D:\DiemDanh\C_sharp\DiemDanh10-05\DiemDanh10-05\obj\Debug\DiemDanh10-05.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CADF9E28-7497-44D6-8E41-923BC47E469D}</ProjectGuid>
+    <ProjectGuid>{F04729E1-E77C-4018-8339-77B0FE49B4B2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>vd</RootNamespace>
-    <AssemblyName>vd</AssemblyName>
+    <RootNamespace>QuanLyDanCu</RootNamespace>
+    <AssemblyName>QuanLyDanCu</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HoGiaDinh.cs" />
+    <Compile Include="KhuPho.cs" />
+    <Compile Include="Nguoi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
